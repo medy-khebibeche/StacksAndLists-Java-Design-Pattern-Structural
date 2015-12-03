@@ -7,6 +7,7 @@ public class Main
 	{
 		Stack<String> stack = new ArrayStack<String>();
 		new StackOfStringTester(stack).testStack();
+		
 	}
 
 }
